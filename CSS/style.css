@@ -7,7 +7,7 @@ html, body {
 }
 
 html {
-  background: url('https://2.bp.blogspot.com/-SUMDIuZ7m48/TeWj1YDWcNI/AAAAAAAABhg/9fjPiDZHwms/s1600/winter.JPG') fixed;
+  background: url('https://images.unsplash.com/photo-1550399105-c4db5fb85c18?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80') fixed;
   background-size: 100%;
 }
 
@@ -78,8 +78,9 @@ img {
   text-shadow: 0px 0px 4px #000;
 }
 .semitrans {
-  background: rgba(255, 255, 255, .5);
+  background: rgba(7, 92, 138, 0.694);
   padding: 0 5%;
+  color: white;
 }
 .dark {
   color: #eeeeec;
